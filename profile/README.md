@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> 🐙 OQTOPUS </h1>
+![OQTOPUS](./image/logo_yoko.png)
 
 </div>
 
