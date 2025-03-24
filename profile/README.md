@@ -1,8 +1,6 @@
-<div align="center">
+# OQTOPUS
 
-![OQTOPUS](./image/logo_yoko.png)
-
-</div>
+![OQTOPUS](./image/oqtopus-logo.png)
 
 ## Overview
 
